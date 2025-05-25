@@ -1,1 +1,1 @@
-# my_scripts
+# Repository for scripts demonstration
